@@ -8,3 +8,17 @@
     height: auto;
 }
 
+.sabor-leche {
+    max-width: 70px;
+    height: auto;
+}
+
+.sabor-agua {
+    max-width: 70px;
+    height: auto;
+}
+
+.sabores {
+    max-width: 100px;
+    max-height: 100px;
+}
